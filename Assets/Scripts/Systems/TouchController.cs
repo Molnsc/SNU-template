@@ -1,0 +1,4 @@
+// TouchController.cs placeholder script for Existenz game
+using UnityEngine;
+
+public class TouchController : MonoBehaviour { }
